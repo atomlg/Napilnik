@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.ConsoleApplication1.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Unity\Repository\Napilnik\ConsoleApplication1\.idea\.idea.ConsoleApplication1\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
